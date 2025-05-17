@@ -31,16 +31,16 @@
 
 ## 🚀 Projects
 
-### ✈️ [Flight-Deal-Cracker](https://github.com/AYUSH8208/Flight-Deal-Cracker)
+### ✈️ [Flight-Deal-Cracker](https://github.com/AYUSH8208/Flight_Deal)
 🔍 Scrapes & delivers best flight deals personalized to user preferences using Python, Flask, REST API, and JS.
 
-### 🎮 [Mood-Mate](https://github.com/AYUSH8208/Mood-Mate)
+### 🎮 [Mood-Mate](https://github.com/AYUSH8208/MoodMateWeb)
 🧘 A gamified mental wellness web app using MERN stack, with goal tracking, Cloudinary integration & mood-based feedback.
 
-### 🌍 [Community-Connect](https://github.com/AYUSH8208/Community-Connect)
+### 🌍 [Community-Connect](https://github.com/AYUSH8208/community-connect)
 📍 Discover and share local events easily. Built with Dart and Firebase to strengthen community engagement.
 
-### 👵 [ElderEase](https://github.com/AYUSH8208/ElderEase)
+### 👵 [ElderEase](https://github.com/rutvikbangar/ElderEase)
 👴 Empowers elderly with multilingual support, safety tools, and activity/event planning in a simple UI.
 
 ---
