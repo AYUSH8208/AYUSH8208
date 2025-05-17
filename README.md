@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ayush Patil 👋</h1>
-<h3 align="center">App Developer |Full-stack Developer | Hackathon Enthusiast | EXTC @ VJTI Mumbai</h3>
+<h3 align="center">Python Developer |App Developer |Full-stack Developer | Hackathon Enthusiast | EXTC @ VJTI Mumbai</h3>
 
 ---
 
