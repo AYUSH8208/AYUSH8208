@@ -31,7 +31,7 @@
 
 ## 🚀 Projects
 
-### 🤖 [AI-Carrer-Coach](https://github.com/AYUSH8208/)
+### 🤖 [AI-Carrer-Coach](https://github.com/AYUSH8208/AI_Coach)
 🎯  AI Career Coach is your comprehensive, AI-powered platform designed to revolutionize how you approach job searching. Build, enhance, and showcase your professional profile with intelligent automation and personalized guidance.
 
 ### ✈️ [Flight-Deal-Cracker](https://github.com/AYUSH8208/Flight_Deal)
